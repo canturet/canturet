@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Tekfen Engineering
+🔭 I’m currently working at Tekfen Engineering
 
 🌱 I’m currently learning Spring Boot and Angular
 
